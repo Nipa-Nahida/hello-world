@@ -9,4 +9,4 @@ Now I am creating branch in remote repo
 & will pull from loacl repo.
 Create issue to slove problems.
 I am create a issue named bug solving may be.
-somethig new I am trying here.
+
