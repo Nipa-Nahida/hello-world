@@ -7,3 +7,5 @@ May be I am very close to solve this problem.
 Now I am going to pull this command from localy.
 Now I am creating branch in remote repo 
 & will pull from loacl repo.
+Create issue to slove problems.
+I am create a issue named bug solving may be.
